@@ -3,7 +3,7 @@ import shutil
 import random
 
 # Définition des chemins
-data_dir = "/Users/okali/OneDrive/Bureau/N7/2A/S8/Apprentissage_Profond/ProjetAP/Données_Brutes"
+data_dir = "/Users/gabri/OneDrive/moi/cours/ENSEEIHT/S8/ApprentissageProfond/ProjetFinal/ProjetAP/Données_Brutes"
 # data_dir = "/Users/anishan/Desktop/GIT-DEEPVF/Données_Brutes"
 sorted_data_dir = os.path.join(os.path.dirname(data_dir), "Données_Triée")
 train_dir = os.path.join(sorted_data_dir, "train")
